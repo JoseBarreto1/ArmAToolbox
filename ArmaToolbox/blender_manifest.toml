@@ -17,7 +17,7 @@ license = [
   "SPDX:GPL-2.0-or-later",
 ]
 
-platforms = ["windows-amd64", "windows-x64"]
+platforms = ["windows-amd64", "windows-x64", "linux-x64"]
 
 [permissions]
 files = "Import/export from/to disk, run post processor binary"
